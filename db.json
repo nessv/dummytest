@@ -2,11 +2,31 @@
 	"get":[
 		{
 			"id":1,
-			"family_name":"test1",
-			"application":2,
+			"family_name":"test2",
+			"application":1,
 			"organization":3,
 			"lat":-31.563910,
 			"long":147.154312,
+			"indicator":"green"
+		}
+		
+		{
+			"id":1,
+			"family_name":"test1",
+			"application":2,
+			"organization":3,
+			"lat":-33.848588,
+			"long":151.209834,
+			"indicator":"green"
+		}
+		
+		{
+			"id":1,
+			"family_name":"test1",
+			"application":2,
+			"organization":3,
+			"lat":-38.330766,
+			"long":144.695692,
 			"indicator":"green"
 		}
 	]
